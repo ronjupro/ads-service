@@ -1,1 +1,0 @@
-export default function handler(req,res){res.status(200).json({ok:true,service:"Ads Galaxy-style Telegram bot",note:"Starter template; configure environment and webhook."});}
